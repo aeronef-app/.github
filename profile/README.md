@@ -23,8 +23,6 @@
   </p>
 </div>
 
----
-
 ## 🎮 Our Mission
 
 **Aeronef** is dedicated to creating innovative, open-source companion tools for the Guild Wars 2 community. We believe that gaming should be enhanced by powerful, accessible tools that respect player privacy and foster community collaboration.
@@ -36,8 +34,6 @@ Our commitment:
 - **Community Driven**: Features and improvements guided by player feedback
 - **Privacy Focused**: Your data stays secure with encrypted API key storage
 - **Performance Optimized**: Fast, reliable tools that respect your time
-
----
 
 ## 📦 Our Projects
 
@@ -73,8 +69,6 @@ Our commitment:
 
   </table>
 </div>
-
----
 
 ## 🛠 Technology Stack
 
@@ -115,53 +109,6 @@ Our commitment:
 
 </div>
 
----
-
-## 🌍 Join Our Community
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>🗣️ Connect & Discuss</h3>
-      <p>
-        <a href="https://bsky.app/profile/aeronef.app"><img src="https://img.shields.io/badge/Bluesky-0085ff?style=flat&logo=bluesky" alt="Bluesky" /></a><br/>
-        <a href="https://social.aeronef.app/@aeronef"><img src="https://img.shields.io/badge/Mastodon-6364ff?style=flat&logo=mastodon" alt="Mastodon" /></a><br/>
-        <a href="https://github.com/aeronef-app/aeronef/discussions"><img src="https://img.shields.io/badge/Discussions-181717?style=flat&logo=github" alt="GitHub Discussions" /></a>
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <h3>🐛 Report & Request</h3>
-      <p>
-        <a href="https://github.com/aeronef-app/aeronef/issues"><img src="https://img.shields.io/badge/Bug%20Reports-d73a4a?style=flat&logo=github" alt="Bug Reports" /></a><br/>
-        <a href="https://github.com/aeronef-app/aeronef/issues/new?template=feature_request.md"><img src="https://img.shields.io/badge/Feature%20Requests-a2eeef?style=flat&logo=lightbulb" alt="Feature Requests" /></a><br/>
-        <a href="https://alternativeto.net/software/aeronef/about/"><img src="https://img.shields.io/badge/Reviews-orange?style=flat&logo=star" alt="Reviews" /></a>
-      </p>
-    </td>
-    <td align="center" width="33%">
-      <h3>💻 Contribute</h3>
-      <p>
-        <a href="https://github.com/aeronef-app/aeronef/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/Contributing-brightgreen?style=flat&logo=github" alt="Contributing" /></a><br/>
-        <a href="https://github.com/aeronef-app/aeronef/blob/main/CLAUDE.md"><img src="https://img.shields.io/badge/Dev%20Guide-blue?style=flat&logo=book" alt="Developer Guide" /></a><br/>
-        <a href="https://github.com/aeronef-app/aeronef/fork"><img src="https://img.shields.io/badge/Fork%20Project-181717?style=flat&logo=git" alt="Fork" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-### 📊 **Community Stats**
-
-<div align="center">
-  <img src="https://img.shields.io/github/contributors-anon/aeronef-app/aeronef?style=for-the-badge&color=blue" alt="Contributors" />
-  <img src="https://img.shields.io/github/commit-activity/m/aeronef-app/aeronef?style=for-the-badge&color=green" alt="Commit Activity" />
-  <img src="https://img.shields.io/github/discussions/aeronef-app/aeronef?style=for-the-badge&color=purple" alt="Discussions" />
-</div>
-
-</div>
-
----
-
 ## 🚀 Quick Start
 
 ### 🎮 **For Players**
@@ -188,37 +135,6 @@ docker compose up
 
 **New to the project?** Check our [Developer Guide](https://github.com/aeronef-app/aeronef/blob/main/CLAUDE.md) for detailed setup instructions.
 
----
-
-## 🏆 Recognition & Trust
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="left" width="50%">
-      <h3>🌟 Community Recognition</h3>
-      <p>
-        Featured on <a href="https://alternativeto.net/software/aeronef/about/"><strong>AlternativeTo</strong></a></br>
-        Trusted by Guild Wars 2 players worldwide</br>
-        Active community of contributors and users</br>
-      </p>
-    </td>
-    <td align="left" width="50%">
-      <h3>🔒 Security & Privacy</h3>
-      <p>
-        Read-only GW2 API integration</br>
-        Full source code transparency</br>
-        No data selling or tracking</br>
-      </p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## 🤝 Contributing
 
 **Everyone is welcome to contribute!** Whether you're:
@@ -236,8 +152,6 @@ docker compose up
 | **Feature Requests**   | Suggest new features or improvements        | [Request Feature →](https://github.com/aeronef-app/aeronef/issues/new?template=feature_request.md) |
 | **Code Contributions** | Fix bugs, add features, improve performance | [Contributing Guide →](https://github.com/aeronef-app/aeronef/blob/main/CONTRIBUTING.md)           |
 | **Documentation**      | Improve guides, tutorials, and API docs     | [Docs Repository →](https://github.com/aeronef-app/aeronef/tree/main/docs)                         |
-
----
 
 ## 📄 License & Legal
 
