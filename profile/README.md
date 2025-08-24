@@ -31,17 +31,17 @@
 
 Our commitment:
 
-- 🌟 **Player-First Design**: Every feature is built with the Guild Wars 2 player experience in mind
-- 🔓 **Open Source**: All code is freely available under copyleft licenses
-- 🤝 **Community Driven**: Features and improvements guided by player feedback
-- 🛡️ **Privacy Focused**: Your data stays secure with encrypted API key storage
-- ⚡ **Performance Optimized**: Fast, reliable tools that respect your time
+- **Player-First Design**: Every feature is built with the Guild Wars 2 player experience in mind
+- **Open Source**: All code is freely available under copyleft licenses
+- **Community Driven**: Features and improvements guided by player feedback
+- **Privacy Focused**: Your data stays secure with encrypted API key storage
+- **Performance Optimized**: Fast, reliable tools that respect your time
 
 ---
 
 ## 📦 Our Projects
 
-### 🌟 **Aeronef Meower** - _Main Repository_
+### **Aeronef** - _Main Repository_
 
 <div>
   <table>
@@ -58,7 +58,7 @@ Our commitment:
       </td>
       <td width="30%">
         <div>
-          <h5>🔥 Key Features</h5>
+          <h5>Key Features</h5>
           <p>
             🔨 Crafting Calculator<br/>
             ⏰ World Boss Tracker<br/>
@@ -207,10 +207,9 @@ docker compose up
     <td align="left" width="50%">
       <h3>🔒 Security & Privacy</h3>
       <p>
-        🔐 Encrypted API key storage</br>
-        🛡️ Read-only GW2 API integration</br>
-        📖 Full source code transparency</br>
-        🚫 No data selling or tracking</br>
+        Read-only GW2 API integration</br>
+        Full source code transparency</br>
+        No data selling or tracking</br>
       </p>
     </td>
   </tr>
@@ -224,19 +223,19 @@ docker compose up
 
 **Everyone is welcome to contribute!** Whether you're:
 
-- 🎮 **A Guild Wars 2 Player** - Share feedback, report bugs, suggest features
-- 👨‍💻 **A Developer** - Contribute code, documentation, or translations
-- 🎨 **A Designer** - Help improve UI/UX or create visual assets
-- 📖 **A Writer** - Improve documentation or create tutorials
+- **A Guild Wars 2 Player** - Share feedback, report bugs, suggest features
+- **A Developer** - Contribute code, documentation, or translations
+- **A Designer** - Help improve UI/UX or create visual assets
+- **A Writer** - Improve documentation or create tutorials
 
 ### 🎯 **Ways to Contribute**
 
 | Contribution Type         | Description                                 | Get Started                                                                                        |
 | ------------------------- | ------------------------------------------- | -------------------------------------------------------------------------------------------------- |
-| 🐛 **Bug Reports**        | Help us fix issues and improve stability    | [Report a Bug →](https://github.com/aeronef-app/aeronef/issues/new?template=bug_report.md)         |
-| 💡 **Feature Requests**   | Suggest new features or improvements        | [Request Feature →](https://github.com/aeronef-app/aeronef/issues/new?template=feature_request.md) |
-| 💻 **Code Contributions** | Fix bugs, add features, improve performance | [Contributing Guide →](https://github.com/aeronef-app/aeronef/blob/main/CONTRIBUTING.md)           |
-| 📖 **Documentation**      | Improve guides, tutorials, and API docs     | [Docs Repository →](https://github.com/aeronef-app/aeronef/tree/main/docs)                         |
+| **Bug Reports**        | Help us fix issues and improve stability    | [Report a Bug →](https://github.com/aeronef-app/aeronef/issues/new?template=bug_report.md)         |
+| **Feature Requests**   | Suggest new features or improvements        | [Request Feature →](https://github.com/aeronef-app/aeronef/issues/new?template=feature_request.md) |
+| **Code Contributions** | Fix bugs, add features, improve performance | [Contributing Guide →](https://github.com/aeronef-app/aeronef/blob/main/CONTRIBUTING.md)           |
+| **Documentation**      | Improve guides, tutorials, and API docs     | [Docs Repository →](https://github.com/aeronef-app/aeronef/tree/main/docs)                         |
 
 ---
 
@@ -256,12 +255,12 @@ docker compose up
 
 <div align="center">
 
-## 💝 **Built with ❤️ for the Guild Wars 2 Community**
+## **Built with ❤️ for the Guild Wars 2 Community**
 
 <p>
-  <strong>🎮 <a href="https://aeronef.app">Try Aeronef Live</a></strong> •
-  <strong>📂 <a href="https://github.com/aeronef-app">Browse Projects</a></strong> •
-  <strong>💬 <a href="https://github.com/aeronef-app/aeronef/discussions">Join Discussions</a></strong>
+  <strong><a href="https://aeronef.app">Try Aeronef Live</a></strong> •
+  <strong><a href="https://github.com/aeronef-app">Browse Projects</a></strong> •
+  <strong><a href="https://github.com/aeronef-app/aeronef/discussions">Join Discussions</a></strong>
 </p>
 
 <p>
